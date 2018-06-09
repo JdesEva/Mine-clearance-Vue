@@ -418,28 +418,7 @@ export default {
 			}
 
 
-			
-			//blank_arr = brr = null;//释放内存
-
-			//let res = [];
-
-			/*** 数组合并,保证前后序号连贯*/
-			
-
-
-			
-			/****判断arr数组是否包含所有的空白区域*/ 
-
-			/*  
-			var p = 0;
-			for(let i=0;i<arr.length;i++){
-				p += arr[i].length;
-			}
-			
-			*/
-			
-			//console.info(blank_arr,arr,p);
-			//console.info(res);
+			console.info(arr)
 
 
 			this.EveArr = arr;//存储数组
